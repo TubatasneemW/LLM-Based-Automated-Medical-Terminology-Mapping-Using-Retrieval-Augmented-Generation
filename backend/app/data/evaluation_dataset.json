@@ -1,0 +1,138 @@
+[
+  {
+    "id": "eval_001",
+    "clinical_text": "High blood pressure",
+    "expected_concept_id": "38341003",
+    "expected_concept_name": "Hypertensive disorder",
+    "terminology": "SNOMED CT",
+    "category": "Cardiovascular",
+    "difficulty": "standard"
+  },
+  {
+    "id": "eval_002",
+    "clinical_text": "Patient has severe HTN with bp 160/100",
+    "expected_concept_id": "38341003",
+    "expected_concept_name": "Hypertensive disorder",
+    "terminology": "SNOMED CT",
+    "category": "Cardiovascular",
+    "difficulty": "abbreviation"
+  },
+  {
+    "id": "eval_003",
+    "clinical_text": "Patient presents with elevated blood glucose levels and frequent urination",
+    "expected_concept_id": "44054006",
+    "expected_concept_name": "Type 2 diabetes mellitus",
+    "terminology": "SNOMED CT",
+    "category": "Endocrine",
+    "difficulty": "complex_description"
+  },
+  {
+    "id": "eval_004",
+    "clinical_text": "Adult-onset type 2 diabetes with insulin resistance",
+    "expected_concept_id": "44054006",
+    "expected_concept_name": "Type 2 diabetes mellitus",
+    "terminology": "SNOMED CT",
+    "category": "Endocrine",
+    "difficulty": "synonym"
+  },
+  {
+    "id": "eval_005",
+    "clinical_text": "Acute heart attack with ST elevation",
+    "expected_concept_id": "22298006",
+    "expected_concept_name": "Myocardial infarction",
+    "terminology": "SNOMED CT",
+    "category": "Cardiovascular",
+    "difficulty": "standard"
+  },
+  {
+    "id": "eval_006",
+    "clinical_text": "pt c/o severe SOB on minimal exertion",
+    "expected_concept_id": "267036007",
+    "expected_concept_name": "Dyspnea",
+    "terminology": "SNOMED CT",
+    "category": "Respiratory",
+    "difficulty": "abbreviation"
+  },
+  {
+    "id": "eval_007",
+    "clinical_text": "Confirmed SARS-CoV-2 positive swab test",
+    "expected_concept_id": "840539006",
+    "expected_concept_name": "COVID-19",
+    "terminology": "SNOMED CT",
+    "category": "Infectious",
+    "difficulty": "standard"
+  },
+  {
+    "id": "eval_008",
+    "clinical_text": "Frequent episodes of wheezing and bronchial airway spasm",
+    "expected_concept_id": "195967001",
+    "expected_concept_name": "Asthma",
+    "terminology": "SNOMED CT",
+    "category": "Respiratory",
+    "difficulty": "complex_description"
+  },
+  {
+    "id": "eval_009",
+    "clinical_text": "Moderate renal impairment with eGFR 42 persistent for 4 months (CKD stage III)",
+    "expected_concept_id": "709044004",
+    "expected_concept_name": "Chronic kidney disease stage 3",
+    "terminology": "SNOMED CT",
+    "category": "Renal",
+    "difficulty": "complex_description"
+  },
+  {
+    "id": "eval_010",
+    "clinical_text": "hiper tension and arterial pressure spike",
+    "expected_concept_id": "38341003",
+    "expected_concept_name": "Hypertensive disorder",
+    "terminology": "SNOMED CT",
+    "category": "Cardiovascular",
+    "difficulty": "spelling_error"
+  },
+  {
+    "id": "eval_011",
+    "clinical_text": "Primary essential hypertension without secondary cause",
+    "expected_concept_id": "I10",
+    "expected_concept_name": "Essential primary hypertension",
+    "terminology": "ICD-10-CM",
+    "category": "Cardiovascular",
+    "difficulty": "standard"
+  },
+  {
+    "id": "eval_012",
+    "clinical_text": "Patient with T2DM without acute complications",
+    "expected_concept_id": "E11.9",
+    "expected_concept_name": "Type 2 diabetes mellitus without complications",
+    "terminology": "ICD-10-CM",
+    "category": "Endocrine",
+    "difficulty": "abbreviation"
+  },
+  {
+    "id": "eval_013",
+    "clinical_text": "Episodes of severe acid regurgitation and burning retrosternal chest pain",
+    "expected_concept_id": "371087003",
+    "expected_concept_name": "Gastroesophageal reflux disease",
+    "terminology": "SNOMED CT",
+    "category": "Gastrointestinal",
+    "difficulty": "complex_description"
+  },
+  {
+    "id": "eval_014",
+    "clinical_text": "Acute cerebral infarction with left hemiparesis and facial droop (stroke)",
+    "expected_concept_id": "230690007",
+    "expected_concept_name": "Cerebrovascular accident",
+    "terminology": "SNOMED CT",
+    "category": "Neurological",
+    "difficulty": "complex_description"
+  },
+  {
+    "id": "eval_015",
+    "clinical_text": "Low hemoglobin of 8.2 g/dL and severe fatigue",
+    "expected_concept_id": "271737000",
+    "expected_concept_name": "Anemia",
+    "terminology": "SNOMED CT",
+    "category": "Hematologic",
+    "difficulty": "complex_description"
+  }
+]
+
